@@ -59,9 +59,9 @@ npm install
 ```bash
 npm run dev
 ```
-2.Open your browser and navigate to http://localhost:3000.
-3.Log in using your Google account.
-4.Create new chats, delete existing chats, and choose different language models.
-5.Log out when you're done.
+2. Open your browser and navigate to http://localhost:3000.
+3. Log in using your Google account.
+4. Create new chats, delete existing chats, and choose different language models.
+5. Log out when you're done.
 
 

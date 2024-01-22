@@ -22,11 +22,6 @@ Sri Chat is an open-source chat application built with Next.js, Firebase, and Op
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (version X.X.X)
-- npm (version X.X.X)
-- OpenAI API key (insert instructions on how to obtain the key)
 
 ### Installation
 

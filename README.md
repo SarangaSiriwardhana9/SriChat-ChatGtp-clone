@@ -12,7 +12,7 @@ Sri Chat is an open-source chat application built with Next.js, Firebase, and Op
 - Create new chats
 - Delete chats
 - Choose from different language models
-- Log out
+
 
 ## Technologies Used
 
